@@ -10,6 +10,8 @@ title: Interconnect Network Technology Research Group
 subtitle: ""
 design:
   columns: "1"
+  background:
+    image: /static/media/contact.jpg
 hero_media: welcome.jpg
 ---
 
