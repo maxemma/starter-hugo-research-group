@@ -6,7 +6,7 @@ widget: hero
 widget_id: Home
 headless: true
 weight: 10
-title: Wowchemy Research Group
+title: Interconnect Network Technology Research Group
 subtitle: ""
 design:
   columns: "1"
